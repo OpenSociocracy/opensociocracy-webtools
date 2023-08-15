@@ -10,11 +10,11 @@
           OpenSociocracy
         </q-toolbar-title>
         <q-space />
-        <q-btn size="md" dense icon="mdi-github" flat to="https://github.com/OpenSociocracy/opensociocracy-webtools" class="q-px-sm"></q-btn>
-        <q-btn size="md" dense icon="mdi-twitter" flat to="https://twitter.com/OpenSociocracy" class="q-px-sm"></q-btn>
-        <q-btn size="md" dense icon="mdi-facebook" flat to="https://www.facebook.com/OpenSociocracy/" class="q-px-sm"></q-btn>
-        <q-btn size="md" dense icon="mdi-mastodon" flat to="https://fosstodon.org/@opensociocracy" class="q-px-sm"></q-btn>
-        <q-btn size="md" dense icon="mdi-linkedin" flat to="https://www.linkedin.com/company/ultri/" class="q-px-sm"></q-btn>
+        <q-btn size="md" dense icon="mdi-github" flat href="https://github.com/OpenSociocracy/opensociocracy-webtools" class="q-px-sm"></q-btn>
+        <q-btn size="md" dense icon="mdi-twitter" flat href="https://twitter.com/OpenSociocracy" class="q-px-sm"></q-btn>
+        <q-btn size="md" dense icon="mdi-facebook" flat href="https://www.facebook.com/OpenSociocracy/" class="q-px-sm"></q-btn>
+        <q-btn size="md" dense icon="mdi-mastodon" flat href="https://fosstodon.org/@opensociocracy" class="q-px-sm"></q-btn>
+        <q-btn size="md" dense icon="mdi-linkedin" flat href="https://www.linkedin.com/company/ultri/" class="q-px-sm"></q-btn>
       </q-toolbar>
 
       <q-tabs align="left">
