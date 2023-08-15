@@ -7,7 +7,7 @@
 
 <script>
 import * as d3 from 'd3'
-import jsonData from '../assets/force-layout.json'
+//import jsonData from '../assets/force-layout.json'
 // import jsonData from '../assets/json/simple_force_layout_2.json' // 金融数据
 // import jsonData from '../assets/json/simple_force_layout_3.json' // 新基建数据
 export default {
