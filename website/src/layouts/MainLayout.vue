@@ -18,6 +18,7 @@
       </q-toolbar>
 
       <q-tabs align="left">
+        <q-route-tab to="/" label="Home" />
         <q-route-tab to="/circles" label="Circles" />
         <q-route-tab to="/canvas" label="Canvas" />
       </q-tabs>
@@ -32,7 +33,7 @@
     <q-footer elevated class="bg-grey-8 text-white">
       <q-toolbar>
         <q-toolbar-title>
-          <div class="text-center justify-center">An <a href="https://www.ultri.com" class="navbar-text-link">Ultri</a> project</div>
+          <div class="text-center justify-center">Built with <q-icon name="mdi-heart" color="red"></q-icon> by <a href="https://www.ultri.com" class="navbar-text-link">Ultri</a></div>
         </q-toolbar-title>
 
       </q-toolbar>
