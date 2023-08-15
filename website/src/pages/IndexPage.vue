@@ -59,7 +59,7 @@
           <q-separator />
           <q-card-section>
             <p class="text-body1">
-              Based off our experiences, we are creating a handbook to help organizations kickoff sociocratic efforts.
+              We are creating a handbook to help organizations kickoff sociocratic efforts. It will help you understand the tools, when to apply them and how to maximixe acceptance in a new organization.
             </p>
             <p class="text-body1">
               The handbook is available as an <a href="https://github.com/OpenSociocracy/documentation-website">open source repository</a> if you would like to contribute or customize.
