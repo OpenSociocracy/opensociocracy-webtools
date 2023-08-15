@@ -1,6 +1,6 @@
 <template>
   <q-page class="flex flex-center">
-    <div class="row justify-center text-center text-h2 full-width">
+    <div :class="Screen.gt.sm ? 'row justify-center text-center text-h1 full-width' : 'row justify-center text-center text-h2 full-width'">
       Free and open source tools for sociocracy.
     </div>
     <div class="row full-width" style="max-width: 1200px">
